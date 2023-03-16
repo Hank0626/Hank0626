@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Hank0626/Hank0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Peiyuan Liu 👋
+- 🎓 Senior at [ZJU](https://www.zju.edu.cn) and [UIUC](https://illinois.edu/). Incoming master at [THU](https://www.tsinghua.edu.cn).
+- ⚡ Python / C++
+- 🎾 Tennis 
+- 📖 Research Interests: Generative Model
+- Intern at [oneflow](https://github.com/Oneflow-Inc) now
+
+![Peiyuan Liu's github stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
+
