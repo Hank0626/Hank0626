@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Peiyuan Liu 👋
-- 🎓 Senior at [ZJU](https://www.zju.edu.cn) and [UIUC](https://illinois.edu/). Incoming master at [THU](https://www.tsinghua.edu.cn).
-- ⚡ Python / C++
-- 🎾 Tennis 
-- 📖 Research Interests: Generative Model
-- Intern at [oneflow](https://github.com/Oneflow-Inc) now
+### Hey there, I'm Peiyuan Liu 👋🌟
+- 🎓 Senior at [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/). Eagerly awaiting my master's journey at [THU](https://www.tsinghua.edu.cn).
+- 💻 Skilled in Python & C++, always ready to learn more.
+- 🎾 Tennis enthusiast.
+- 🧠 Research Interests: Multi-object Tracking, Generative Models.
+- 🚀 Current intern at [OneFlow](https://github.com/Oneflow-Inc), embracing the future of AI.
 
-![Peiyuan Liu's github stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
+![Peiyuan Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
+
 
