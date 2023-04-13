@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻 Skilled in Python & C++, always ready to learn more.
 - 🎾 Tennis enthusiast.
 - 🧠 Research Interests: Multi-object Tracking, Generative Models.
-- 🚀 Current intern at [OneFlow](https://github.com/Oneflow-Inc), embracing the future of AI.
+<!-- - 🚀 Current intern at [OneFlow](https://github.com/Oneflow-Inc), embracing the future of AI. -->
 
 ![Peiyuan Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
 
