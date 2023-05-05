@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Peiyuan Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
 
-
+![](https://komarev.com/ghpvc/?username=Hank0626&style=plastic&color=blue)
