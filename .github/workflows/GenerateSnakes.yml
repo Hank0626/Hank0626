@@ -25,6 +25,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          author_name: hank0626
-          author_email: hank010626@163.com
+          author_name: hank0626-bot
+          author_email: bot@hank0626.me
           message: 'Generate Contribution Snake' 
