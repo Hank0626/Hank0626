@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm Peiyuan Liu <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- 🎓 Senior at [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/). Eagerly awaiting my master's journey at [THU](https://www.tsinghua.edu.cn).
+- 🎓 Alumnus of [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/). Now pursuing my master's at [THU](https://www.tsinghua.edu.cn).
 - 💻 Skilled in Python & C++, always ready to learn more.
 - 🎾 Tennis enthusiast.
 - 🧠 Research Interests: Multi-object Tracking, LTSF.
