@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - 🧠 Research Interests: Multi-object Tracking, Time Series Analysis, LLMs
 <!-- - 🚀 Current intern at [OneFlow](https://github.com/Oneflow-Inc), embracing the future of AI. -->
 
-<!-- ![Peiyuan Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
- -->
+
+![Peiyuan Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANK0626&show_icons=true&theme=tokyonight&count_private=true)
+
 <!-- ![](https://komarev.com/ghpvc/?username=Hank0626&style=plastic&color=blue) -->
+
 ![](https://github.com/Hank0626/Hank0626/blob/main/assets/github-contribution-grid-snake-dark.svg)
