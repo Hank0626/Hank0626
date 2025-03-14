@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🎓 Alumnus of [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/). Now pursuing my master's at [THU](https://www.tsinghua.edu.cn).
 - 💻 Skilled in Python & C++, always ready to learn more.
 - 🎾 Tennis enthusiast.
-- 💼 Ex-intern: @[Oneflow](https://github.com/Oneflow-Inc/oneflow), @[Xorbits](https://github.com/xorbitsai/xorbits)
-- 🔍 Research Interests: Multi-object Tracking, Time Series Analysis, LLMs
+- 🔍 Research Interests: Time Series Analysis, LLMs, Financial Series Prediction.
+<!-- - 💼 Ex-intern: @[Oneflow](https://github.com/Oneflow-Inc/oneflow), @[Xorbits](https://github.com/xorbitsai/xorbits) -->
 <!-- - 🚀 Current intern at [OneFlow](https://github.com/Oneflow-Inc), embracing the future of AI. -->
 
 
